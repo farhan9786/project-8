@@ -18,10 +18,10 @@ public class project8 {
     double darab;
     double bahagi;
     
-   System.out.print("Masukkan no pertama :");
+   System.out.print("Masukkan no kedua :");
    double no1=input.nextDouble();
    
-   System.out.print("Masukkan no kedua :");
+   System.out.print("Masukkan no ketiga :");
    double no2=input.nextDouble();
    
    tambah = no1+no2;
